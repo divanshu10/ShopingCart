@@ -12,11 +12,11 @@ export const About = () => {
   <div className="mobile">Contact No.=  1800-00-0000 (tollfree) <br>
   </br> </div> Email = shopingcart123@gmail.com
   <div className ="feedback">
-  <h5>feedback and Suggestion </h5>
-  Name - <input></input><br></br>
-  MobNo.- <input></input> <br></br>
+  <h5>feedback and Suggestions- </h5>
+  Name -<input></input><br></br>
+  Mob. - <input></input> <br></br>
   Message -
-  <textarea></textarea><br></br>
+  <textarea ></textarea><br></br>
   <button className= "btn">Submit</button>
   </div>
 
